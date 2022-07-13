@@ -16,7 +16,8 @@ public class GameSummary123 {
 	}
 	public void setId(Long id) {
 		this.id = id;
-	};
+	}
+	
 
 
 }
